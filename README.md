@@ -1,1 +1,0 @@
-# calculadora3d
